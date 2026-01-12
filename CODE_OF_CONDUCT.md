@@ -24,6 +24,12 @@ Examples of unacceptable behavior include:
 - Publishing others' private information, such as a physical or email address, without their explicit permission
 - Other conduct which could reasonably be considered inappropriate in a professional setting
 
+## Content Moderation
+
+In our experience, [Web 3](https://en.wikipedia.org/wiki/Web3) (especially Crypto, NFT and Smart Contracts) is most often associated with money making scams and other unsavory activities. We know that there are good projects out there, but to simplify moderation, we have decided that Web 3 has no place in our community.   
+You will always be free to build any application you want with Skeleton and we will be there to help you if you've got support issues, but please don't showcase or advertise Web 3 projects in our community.
+
+
 ## Enforcement Responsibilities
 
 Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
